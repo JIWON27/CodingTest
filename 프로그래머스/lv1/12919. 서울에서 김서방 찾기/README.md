@@ -41,3 +41,5 @@ Empty
       </table>
 
 > 출처: 프로그래머스 코딩 테스트 연습, https://programmers.co.kr/learn/challenges
+
+index(value) : index 함수는 배열에서 value의 위치를 찾아주는 함수이며, 중복된 값이 있으면 가장 최소의 위치를 리턴
