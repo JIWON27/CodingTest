@@ -1,6 +1,6 @@
 def solution(arr):
-    answer = [arr[0]]
+    answer = []
     for i in arr:
-        if i != answer[-1]: #peek() 
+        if [i] != answer[-1:]: #peek() 
             answer.append(i)
     return answer
