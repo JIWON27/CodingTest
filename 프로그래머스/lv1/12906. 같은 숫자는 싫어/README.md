@@ -58,5 +58,5 @@ Empty
 
 
 > 출처: 프로그래머스 코딩 테스트 연습, https://programmers.co.kr/learn/challenges<br>
-> Meno<br>
+> Memo<br>
 > answer[-1:]는 리스트가 비어있어도 사용할 수 있음. (answer[-1]는 리스트가 비어있으면 사용할 수 없음)
