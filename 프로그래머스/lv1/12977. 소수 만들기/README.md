@@ -56,4 +56,6 @@ Empty
 [4,6,7]을 이용해서 17을 만들 수 있습니다.</p>
 
 
-> 출처: 프로그래머스 코딩 테스트 연습, https://programmers.co.kr/learn/challenges
+> 출처: 프로그래머스 코딩 테스트 연습, https://programmers.co.kr/learn/challenges<br>
+> Memo<br>
+> 소수 판정법 : 자연수 n에 대해서 1보다 크고 루트 n 이하인 모든 자연수들로 나누어떨어지지 않으면 소수라는 것 -> **0.5 사용해서 범위 조정
