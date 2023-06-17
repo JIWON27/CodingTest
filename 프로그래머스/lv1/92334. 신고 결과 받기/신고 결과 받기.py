@@ -10,6 +10,5 @@ def solution(id_list, report, k):
     for users in dict_.values():
         if len(users) >= k:
             for user in users:
-                idx = id_list.index(user)
-                answer[idx] += 1
+                answer[id_list.index(user)] += 1
     return answer
