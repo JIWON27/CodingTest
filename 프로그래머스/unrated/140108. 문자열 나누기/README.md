@@ -1,10 +1,10 @@
 # [unrated] 문자열 나누기 - 140108 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/140108#) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/140108) 
 
 ### 성능 요약
 
-메모리: 10.4 MB, 시간: 3.80 ms
+메모리: 10.2 MB, 시간: 1.59 ms
 
 ### 구분
 
