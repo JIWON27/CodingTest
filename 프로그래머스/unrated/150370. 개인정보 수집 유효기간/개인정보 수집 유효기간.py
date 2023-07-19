@@ -11,8 +11,6 @@ def solution(today, terms, privacies):
         expiry =  int(date[1]) + int(term.get(day[1]))
             
         newTodayYear = date[0]
-        newTodayMonth = 0
-        
         newTodayMonth = ( int(today[0]) - int(date[0]) ) * 12 + int(today[1])
         
         if newTodayMonth > expiry:
