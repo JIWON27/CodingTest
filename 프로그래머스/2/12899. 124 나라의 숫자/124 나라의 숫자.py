@@ -7,5 +7,4 @@ def solution(n):
         else:
             answer += str(n%3)
             n = n//3
-    answer.replace('3', '4')
     return answer[::-1]
